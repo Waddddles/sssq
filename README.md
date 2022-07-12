@@ -11,3 +11,7 @@ Operation method:
 2.run a_control.py
 
 it will return you some water conditions in some CSV files.
+
+or
+
+you can use search_.exe to get same results.
